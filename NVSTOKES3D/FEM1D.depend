@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1553209085 source:c:\users\enmanuel\desktop\codeblocks-16.01mingw-nosetup\fem1d\test.cpp
+
+1553284180 source:c:\users\enmanuel\desktop\codeblocks-16.01mingw-nosetup\fem1d\main.cpp
+	<iostream>
+	"classes.h"
+	"tools.h"
+
+1553267825 c:\users\enmanuel\desktop\codeblocks-16.01mingw-nosetup\fem1d\test.h
+
+1553287394 c:\users\enmanuel\desktop\codeblocks-16.01mingw-nosetup\fem1d\tools.h
+	<fstream>
+
+1553296812 c:\users\enmanuel\desktop\codeblocks-16.01mingw-nosetup\fem1d\classes.h
+
+1553473058 source:c:\users\enxel\desktop\fem1d\main.cpp
+	<iostream>
+	"math_tools.h"
+	"classes.h"
+	"tools.h"
+	"sel.h"
+
+1553471947 c:\users\enxel\desktop\fem1d\classes.h
+
+1553471947 c:\users\enxel\desktop\fem1d\tools.h
+	<fstream>
+
+1553473059 c:\users\enxel\desktop\fem1d\sel.h
+
+1553470404 c:\users\enxel\desktop\fem1d\math_tools.h
+	<vector>
+
+1553721197 source:c:\users\enmanuel\desktop\fem1d\main.cpp
+	<iostream>
+	"math_tools.h"
+	"classes.h"
+	"tools.h"
+	"sel.h"
+
+1553720953 c:\users\enmanuel\desktop\fem1d\math_tools.h
+	<vector>
+	"math.h"
+	"stdlib.h"
+
+1553704373 c:\users\enmanuel\desktop\fem1d\classes.h
+
+1553469732 c:\users\enmanuel\desktop\fem1d\tools.h
+	<fstream>
+
+1553719782 c:\users\enmanuel\desktop\fem1d\sel.h
+
+1558639209 source:c:\users\enmanuel\desktop\fem2d\main.cpp
+	<iostream>
+	"math_tools.h"
+	"classes.h"
+	"tools.h"
+	"sel.h"
+
+1558539742 c:\users\enmanuel\desktop\fem2d\math_tools.h
+	<vector>
+	"math.h"
+	"stdlib.h"
+
+1558467620 c:\users\enmanuel\desktop\fem2d\classes.h
+
+1558540815 c:\users\enmanuel\desktop\fem2d\tools.h
+	<fstream>
+	"string.h"
+
+1558539725 c:\users\enmanuel\desktop\fem2d\sel.h
+
+1561503543 source:c:\users\enmanuel\desktop\fem3d\main.cpp
+	<iostream>
+	"math_tools.h"
+	"classes.h"
+	"tools.h"
+	"sel.h"
+
+1561511285 c:\users\enmanuel\desktop\fem3d\math_tools.h
+	<vector>
+	"math.h"
+	"stdlib.h"
+
+1561504388 c:\users\enmanuel\desktop\fem3d\classes.h
+
+1561510856 c:\users\enmanuel\desktop\fem3d\tools.h
+	<fstream>
+	"string.h"
+
+1561511291 c:\users\enmanuel\desktop\fem3d\sel.h
+
+1561678949 source:c:\users\enmanuel\desktop\cdigofemnavierstokes2d\fem2d\main.cpp
+	<iostream>
+	"math_tools.h"
+	"classes.h"
+	"tools.h"
+	"sel.h"
+
+1561677554 c:\users\enmanuel\desktop\cdigofemnavierstokes2d\fem2d\math_tools.h
+	<vector>
+	"math.h"
+	"stdlib.h"
+
+1561504388 c:\users\enmanuel\desktop\cdigofemnavierstokes2d\fem2d\classes.h
+
+1561679193 c:\users\enmanuel\desktop\cdigofemnavierstokes2d\fem2d\tools.h
+	<fstream>
+	"string.h"
+
+1561679156 c:\users\enmanuel\desktop\cdigofemnavierstokes2d\fem2d\sel.h
+
+1561678949 source:c:\users\elect\desktop\fem2d\main.cpp
+	<iostream>
+	"math_tools.h"
+	"classes.h"
+	"tools.h"
+	"sel.h"
+
+1561677554 c:\users\elect\desktop\fem2d\math_tools.h
+	<vector>
+	"math.h"
+	"stdlib.h"
+
+1562530700 c:\users\elect\desktop\fem2d\classes.h
+
+1562534824 c:\users\elect\desktop\fem2d\tools.h
+	<fstream>
+	"string.h"
+
+1562547409 c:\users\elect\desktop\fem2d\sel.h
+
+1562644466 source:c:\users\miguelaviles\desktop\nvstokes3d-final\nvstokes3d\main.cpp
+	<iostream>
+	"math_tools.h"
+	"classes.h"
+	"tools.h"
+	"sel.h"
+
+1561677554 c:\users\miguelaviles\desktop\nvstokes3d-final\nvstokes3d\math_tools.h
+	<vector>
+	"math.h"
+	"stdlib.h"
+
+1562644656 c:\users\miguelaviles\desktop\nvstokes3d-final\nvstokes3d\classes.h
+
+1562644212 c:\users\miguelaviles\desktop\nvstokes3d-final\nvstokes3d\tools.h
+	<fstream>
+	"string.h"
+
+1562633246 c:\users\miguelaviles\desktop\nvstokes3d-final\nvstokes3d\sel.h
+
